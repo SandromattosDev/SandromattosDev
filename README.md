@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou Sandro, atualmente estou aprendendo programação em breve criando projetos utilizando os conehcimentos adquiridos:
+Eu sou Sandro, atualmente estou aprendendo programação em breve criando projetos utilizando os conhecimentos adquiridos:
 <br>
 <br>
 <img src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
